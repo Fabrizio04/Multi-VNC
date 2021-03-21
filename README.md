@@ -1,6 +1,5 @@
 # Multi-VNC
 ## Multi-VNC è uno strumento CMD in Italiano che si affianca alle funzionalità esistenti di Ultra VNC, Gratuito e Open Source.
-## È severamente vietato l'utilizzo per scopi illeciti o per fini di lucro.
 
 
 Multi-VNC è 
