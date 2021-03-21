@@ -89,7 +89,7 @@ rem cls
 ECHO Creo la cartella vncinstall
 mkdir Z:\vncinstall
 ECHO Copio il file d^'installazione
-copy /y "%~dp0\vnc\UltraVNC_1_3_2_X64_Setup.exe" Z:\vncinstall>nul
+copy /y "%~dp0\vnc\UltraVNC_1_3_2_X86_Setup.exe" Z:\vncinstall>nul
 ECHO Copio il file di configurazione
 copy /y "%~dp0\inf\ultravnc_server.inf" Z:\vncinstall>nul
 ECHO Copio il launcher
