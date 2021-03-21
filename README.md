@@ -1,6 +1,5 @@
 # Multi-VNC
 ## Multi-VNC è uno strumento CMD in Italiano che si affianca alle funzionalità esistenti di Ultra VNC, Gratuito e Open Source.
-## È severamente vietato l'utilizzo per scopi illeciti o per fini di lucro.
 
 
 Multi-VNC è 
@@ -17,7 +16,7 @@ Multi-VNC è
 - [Java](https://www.java.com/it/)
 - [Microsoft .NET 5 Runtime](https://dotnet.microsoft.com/download)
 
-### TightVNC
+### TightVNC Client
 
 - [https://github.com/TurboVNC/tightvnc](https://github.com/TurboVNC/tightvnc)
 
