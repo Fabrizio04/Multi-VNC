@@ -16,7 +16,7 @@ Multi-VNC è
 - [Java](https://www.java.com/it/)
 - [Microsoft .NET 5 Runtime](https://dotnet.microsoft.com/download)
 
-### TightVNC
+### TightVNC Client
 
 - [https://github.com/TurboVNC/tightvnc](https://github.com/TurboVNC/tightvnc)
 
